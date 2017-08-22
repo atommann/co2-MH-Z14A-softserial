@@ -1,6 +1,6 @@
 # 简介
 
-用 Arduino 测试 CO2 传感器 MH-Z14A. 这个传感器有多种数据输出方式，比如 PWM(需要脉冲宽度捕捉), 电压值(需要 ADC)，UART。这里用 UART.
+用 Arduino 测试 [CO2 传感器 MH-Z14A](http://www.winsensor.com/products/mozu/hbmz/MH_Z14Aeyhtcgq_364.html). 这个传感器有多种数据输出方式，比如 PWM(需要脉冲宽度捕捉), 电压值(需要 ADC)，UART。这里用 UART.
 
 # 传感器标零
 
